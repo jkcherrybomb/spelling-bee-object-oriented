@@ -1,0 +1,5 @@
+Spelling Bee, Julia Konefał
+
+Mój pomysł na projekt to klon gry Spelling Bee New York Times'a. Gra losuje 7 liter, w tym jedną wyróżnioną, z których gracz ma za zadanie układać istniejące słowa, każde zawierające wyróżnioną literę. Słowo musi zawierać conajmniej 4 litery, a gracz dostaje tyle punktów, ile liter, chyba że użyje w słowie wszystkich siedmiu - wtedy dotaje +7 punktów za słowo. 
+
+Projekt napiszę w Pythonie z użyciem biblioteki graficznej Tkinter. Program będzie losował 7 liter z alfabetu angielskiego, z nich losował jedną wyróżnioną, a potem na podstawie słownika języka angielskiego tworzył listę możliwych do ułożenia słów. Jeśli będzie na niej mniej niż 5 słów lub nie będzie się dało wykorzystać wszystkich liter, wtedy wybierze nowy zestaw liter. 
